@@ -1,0 +1,1 @@
+(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[826],{468:(o,e,t)=>{"use strict";var r=t(402),d=t(294),i=t(935),n=(0,r.Z)("div",{},void 0,(0,r.Z)("h1",{},void 0,"Md Irshad | Portfolio"));function u(){return n}i.render((0,r.Z)(d.StrictMode,{},void 0,(0,r.Z)(u,{})),document.getElementById("root"))}},0,[[468,666,736]]]);

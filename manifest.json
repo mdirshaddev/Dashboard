@@ -1,0 +1,31 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.bff2e82ad18356648b5292b9a99f8170.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.e4de073f3c6f1df750c2268d8a709618.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.10c7f7becba2c31daa794c614074f2c4.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_64x64.150742ddc1109dde7d10e61050c0eac7.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "name": "Md Irshad | Portfolio",
+  "short_name": "Portfolio",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "This protfolio project built using React with Custom Webpack Config",
+  "background_color": "#ffffff"
+}
